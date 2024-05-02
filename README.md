@@ -1,6 +1,8 @@
-# meal
+# Meal
 
-A new Flutter project.
+FlutterMeal is a mobile application designed to inspire users with a wide range of delicious recipes and meal ideas. Developed using Flutter, it provides an intuitive and visually appealing interface for users to explore, discover, and save recipes for their next culinary adventure. The app caters to users of all skill levels, from novice cooks to experienced chefs, offering a diverse selection of recipes from various cuisines and dietary preferences.
+
+
 
 ## Getting Started
 
